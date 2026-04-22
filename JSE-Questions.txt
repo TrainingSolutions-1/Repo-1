@@ -1,0 +1,233 @@
+1) Which of the following option leads to the portability and security of Java?
+
+	Bytecode is executed by JVM
+
+	The applet makes the Java code secure and portable
+
+	Use of exception handling
+
+	Dynamic binding between objects
+
+ 2)_____ is used to find and fix bugs in the Java programs.
+
+	JVM
+	JRE
+	JDK
+	JDB
+
+3) Which of the following is a valid declaration of a char?
+
+	char ch = '\utea';
+	char ca = 'tea';
+	char cr = \u0223;
+	char cc = '\itea';
+
+4)What is the return type of the hashCode() method in the Object class?
+
+	Object
+	int
+	long
+	void
+
+5) What does the expression float a = 35 / 0 return?
+
+	0
+	Not a Number
+	Infinity
+	Run time exception
+
+ 6)Evaluate the following Java expression, if x=3, y=5, and z=10:
+
+	++z + y - y + z + x++
+
+	24
+	23
+	20
+	25
+ 7) Which of the following tool is used to generate API documentation in HTML format from doc comments in source code?
+
+	javap tool
+	javaw command
+	Javadoc tool
+	javah command
+
+ 8)Which method of the Class.class is used to determine the name of a class represented by the class object as a String?
+
+	getClass()
+	intern()
+	getName()
+	toString()
+
+ 9) In which process, a local variable has the same name as one of the instance variables?
+
+	Serialization
+	Variable Shadowing
+	Abstraction
+	Multi-threading
+
+10) What do you mean by nameless objects?
+
+	An object created by using the new keyword.
+	An object of a superclass created in the subclass.
+	An object without having any name but having a reference.
+	An object that has no reference.
+
+ 11)Which of the following is an immediate subclass of the Panel class?
+
+	Applet class
+	Window class
+	Frame class
+	Dialog class
+
+12) An interface with no fields or methods is known as a ______.
+
+	Runnable Interface
+	Marker Interface
+	Abstract Interface
+	CharSequence Interface
+
+13)Which option is false about the final keyword?
+
+	A final method cannot be overridden in its subclasses.
+	A final class cannot be extended.
+	A final class cannot extend other classes.
+	A final method can be inherited.
+
+ 14)Which of these classes are the direct subclasses of the Throwable class?
+
+	RuntimeException and Error class
+	Exception and VirtualMachineError class
+	Error and Exception class
+	IOException and VirtualMachineError class
+
+ 15)What do you mean by chained exceptions in Java?
+
+	Exceptions occurred by the VirtualMachineError
+	An exception caused by other exceptions
+	Exceptions occur in chains with discarding the debugging information
+	None of the above
+
+ 16)In which memory a String is stored, when we create a string using new operator?
+
+	Stack
+	String memory
+	Heap memory
+	Random storage space
+
+ 17)What is the use of the intern() method?
+
+	It returns the existing string from memory
+	It creates a new string in the database
+	It modifies the existing string in the database
+	None of the above
+
+ 18) Which of the following is a marker interface?
+
+	Runnable interface
+	Remote interface
+	Readable interface
+	Result interface
+
+ 19) Which of the following is a reserved keyword in Java?
+
+	object
+	strictfp
+	main
+	system
+
+ 20) In java, jar stands for_____.
+
+	Java Archive Runner
+	Java Application Resource
+	Java Application Runner
+	None of the above
+
+ 21)What will be the output of the following program?
+
+	public class Test2 {  
+    public static void main(String[] args) {  
+        StringBuffer s1 = new StringBuffer("Complete");  
+        s1.setCharAt(1,'i');  
+        s1.setCharAt(7,'d');  
+        System.out.println(s1);  
+     }  
+ }  
+
+	 Complete
+	Iomplede
+	Cimpletd
+	Coipletd	
+
+ 22)Which of the given methods are of Object class?
+
+	notify(), wait( long msecs ), and synchronized()
+	wait( long msecs ), interrupt(), and notifyAll()
+	notify(), notifyAll(), and wait()
+	sleep( long msecs ), wait(), and notify()
+
+ 23)Given,
+
+	ArrayList list = new ArrayList();  
+
+	What is the initial quantity of the ArrayList list?
+
+	5
+	10
+	0
+	100
+ 24) Which of the following is a mutable class in java?
+
+	java.lang.String
+	java.lang.Byte
+	java.lang.Short
+	java.lang.StringBuilder
+
+ 25) What will be the output of the following program?
+
+	abstract class MyFirstClass  
+	{  
+     abstract num (int a, int b) {  }  
+	}  
+	No error
+	Method is not defined properly
+	Constructor is not defined properly
+	Extra parentheses
+
+ 26)What is meant by the classes and objects that dependents on each other?
+
+	Tight Coupling
+	Cohesion
+	Loose Coupling
+	None of the above
+
+  27)Which of the following code segment would execute the stored procedure "getPassword()" located in a database server?
+
+CallableStatement cs = connection.prepareCall("{call.getPassword()}");
+cs.executeQuery();
+CallabledStatement callable = conn.prepareCall("{call getPassword()}");
+callable.executeUpdate();
+CallableStatement cab = con.prepareCall("{call getPassword()}");
+cab.executeQuery();
+Callablestatement cstate = connect.prepareCall("{call getpassword()}");
+cstate.executeQuery();
+
+ 28)How many threads can be executed at a time?
+
+Only one thread
+Multiple threads
+Only main (main() method) thread
+Two threads
+
+ 29) In character stream I/O, a single read/write operation performs _____.
+
+	Two bytes read/write at a time.
+	Eight bytes read/write at a time.
+	One byte read/write at a time.
+	Five bytes read/ write at a time.
+
+ 30)What is the default encoding for an OutputStreamWriter?
+
+	UTF-8
+	Default encoding of the host platform
+	UTF-12
+	None of the above

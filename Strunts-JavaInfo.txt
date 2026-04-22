@@ -1,0 +1,691 @@
+ 1) Pavan Kumar : 2.5 / 5
+
+ 2) Chandu :	2.5/5	
+
+ 3) GOWTHAM: 2.5 / 5
+
+ 4)Manasa : 3/5
+
+ 5)aakash: 3/5
+
+ 6)Sravani: 3/5
+
+ 7)Pravallika: 2/5
+
+ 8)Sowjanya: 2.5/5
+
+ 9)Sravani: 2/5
+
+ 10)Sravani: AWS and devops : not clear idea about concepts
+
+
+
+Java :
+
+ 1) Pavan Kumar : 2.5 / 5
+
+	--> B.TECH : 2024 ,
+	--> Java Fullstack
+   70%
+
+	Java --- 7 
+
+	1)HTML,JS,CSS,React
+
+	2)Servletes,JDBC,Hibernate,Spring,Spring boot
+
+	3)MySQL
+
+	Java 8.
+
+
+	-- validations --> Not Answered
+
+	-- React ---> Answered
+
+	-- Designed : mern stack
+
+	JSE :
+
+		platform independent :
+
+		compiler and interpreter : not ans
+
+		memory : not ans
+
+		gc : not ans
+
+		data types : ans
+
+		encapsulation : not clear ans 
+
+		abstraction : not clear
+
+		can we write two methods in same class? ok
+
+		java support multiple inheritance ?
+
+		immutable class ? ok
+
+		exceptional handlers ? ok
+
+		user defined exception ? not clear
+
+		user defined exception:no
+
+		how many threads are executes at a time ?
+
+
+		what is dead lock ?
+
+		final : not
+
+		what is Serialization ?
+
+		types of drives : no
+
+		JDBC vs Hibernate : no
+
+
+		servlet life cycle ;
+
+		methods HTTP Servlet API :
+
+
+ 2) Chandu :	3/5	 
+
+		
+	--> B.TECH : 2024 , ECE
+	--> Java Fullstack
+   6.89%
+
+	Java --- 4/5 
+
+	1)HTML,JS,CSS
+
+	2)Servletes,JDBC,Hibernate,Spring,Spring boot
+
+	3)MySQL
+
+	Java version :  Java 8.
+
+
+	-- validations --> Not Answered
+
+
+	-- Designed : 
+
+	JSE :
+
+		platform independent : ok
+
+		compiler and interpreter : ok
+
+		JIT Compiler : ok
+
+		memory : ok
+
+		gc : ok
+
+		class and array : 
+
+		data types : ans
+
+		encapsulation : not clear ans 
+
+		abstraction : ok
+
+		can we write two methods in same class? ok
+
+		java support multiple inheritance ? ok
+
+		immutable class ? ok
+
+		exceptional handlers ? ok
+
+		user defined exception ? ok
+
+		user defined exception:no
+
+		how many threads are executes at a time ? no
+
+		what is dead lock ? NO
+
+		final vs finally : ok
+
+		what is Serialization ? no
+
+		types of jdbc drives : no
+
+		JDBC vs Hibernate : ok
+
+		servlet life cycle ; 
+
+		methods HTTP Servlet API :
+
+		JSP : no
+
+ 3) GOWTHAM:		 
+
+		
+	--> B.TECH : 2024 , ECE
+	--> Java Fullstack
+   65%
+
+ Not Answared.
+
+ 4)Manasa :
+ 
+ 		
+	--> B.TECH : 2025 , ECE
+	--> Java Fullstack
+    7.5
+
+	Java --- 4/5 
+
+	1)HTML,JS,CSS
+
+	2)Servletes,JDBC,Hibernate,Spring,Spring boot
+
+	3)MySQL
+
+	Java version :  Java 8.
+
+
+	-- validations --> ok
+
+
+	-- Designed : ok
+
+	JSE :
+
+		platform independent : ok
+
+		compiler and interpreter : ok
+
+		JIT Compiler : ok
+
+		memory : ok
+
+		gc : ok
+
+		class and array : ok
+
+		data types : ans
+
+		encapsulation : no
+
+		abstraction : no
+
+		can we write two methods in same class? ok
+
+		java support multiple inheritance ? ok
+
+		immutable class ? no
+
+		exceptional handlers ? ok
+
+		user defined exception ? ok
+
+		user defined exception:no
+
+		how many threads are executes at a time ? no
+
+		what is dead lock ? NO
+
+		final vs finally : ok
+
+		what is Serialization ? ok
+
+		types of jdbc drives : ok
+
+		JDBC vs Hibernate : ok
+
+		servlet life cycle ; ok
+
+		methods HTTP Servlet API :no
+
+		JSP : no
+
+
+
+ 5) aakash:		 
+
+		
+	--> B.TECH : 2024 , CSE
+	--> Java Fullstack
+   7.5
+
+	Java --- 4/5 
+
+	1)HTML,JS,CSS
+
+	2)Servletes,JDBC,Hibernate,Spring,Spring boot
+
+	3)MySQL
+
+	Java version :  Java 8.
+
+
+	-- validations --> Not Answered
+
+
+	-- Designed : 
+
+	JSE :
+
+		platform independent : ok
+
+		compiler and interpreter : not
+
+		JIT Compiler : ok
+
+		memory : no
+
+		gc : no
+
+		class and array : no
+
+		data types : ans
+
+		encapsulation : not clear ans 
+
+		abstraction : no
+
+		can we write two methods in same class? ok
+
+		java support multiple inheritance ? ok
+
+		immutable class ? no
+
+		exceptional handlers ? ok
+
+		user defined exception ? ok
+
+		user defined exception:ok
+
+		how many threads are executes at a time ? no
+
+		what is dead lock ? ok
+
+		final vs finally : ok
+
+		what is Serialization ? no
+
+		types of jdbc drives : no
+
+		JDBC vs Hibernate : ok
+
+		servlet life cycle ; ok
+
+		methods HTTP Servlet API :
+
+		JSP : no
+
+
+ 6) Sravani:		 
+
+		
+	--> B.TECH : 2025 , CSE
+	--> Java Fullstack
+   72
+
+	Java --- 5/10 , 
+
+	1)HTML,JS,CSS
+
+	2)Servletes,JDBC,Hibernate,Spring,Spring boot
+
+	3)MySQL
+
+	Java version :  JAVA 21.
+
+
+	-- validations --> Not Answered
+
+
+	-- Designed : 
+
+	JSE :
+
+		platform independent : ok
+
+		compiler and interpreter : not
+
+		JIT Compiler : no
+
+		memory : yes
+
+		gc : no
+
+		class and array : no
+
+		class object stores any memory:no
+
+		data types : ans
+
+		float and double : no
+
+		encapsulation : not clear ans 
+
+		abstraction : no
+
+		can we write two methods in same class? no
+
+		java support multiple inheritance ? ok
+
+		interface : yes,
+
+		immutable class ? ok
+
+		exceptional handlers ? ok
+
+		user defined exception ? ok
+
+		how many threads are executes at a time ? no
+
+		what is dead lock ? ok
+
+		final vs finally : ok
+
+		what is Serialization ? no
+
+		types of jdbc drives : no
+
+		skeleton of JDBC Program :ok
+
+		JDBC vs Hibernate : ok
+
+		servlet life cycle ; ok
+
+		methods HTTP Servlet API :
+
+		JSP : yes
+
+		jsp implicit objects.no
+
+
+ 7) Pravallika:		 
+
+		
+	--> B.TECH : 2025 , CSE
+	--> Java Fullstack
+   7.75
+
+	Java --- 5/10 , 
+
+	1)HTML,JS,CSS
+
+	2)Servletes,JDBC,Hibernate,Spring,Spring boot
+
+	3)MySQL
+
+	Java version :  JAVA 21.
+
+
+	-- validations --> Not Answered
+
+
+	-- Designed : 
+
+	JSE :
+
+		platform independent : ok
+
+		compiler and interpreter : not
+
+		JIT Compiler : no
+
+		memory : yes
+
+		gc : no
+
+		class and array : no
+
+		class object stores any memory:no
+
+		data types : ans
+
+		float and double : no
+
+		encapsulation : not clear ans 
+
+		abstraction : no
+
+		can we write two methods in same class? no
+
+		java support multiple inheritance ? no
+
+		interface : no
+
+		immutable class ? ok
+
+		exceptional handlers ? ok
+
+
+
+ 8)  Sowjanya:		 
+
+		
+	--> B.TECH : 2023 , ECE
+	--> Java Fullstack
+   7.9
+
+	Java --- 3.5/5 , 
+
+	1)HTML,JS,CSS
+
+	2)Servletes,JDBC,Hibernate,Spring,Spring boot
+
+	3)MySQL
+
+	Java version :  JAVA 21.
+
+
+	-- validations --> Not Answered
+
+
+	-- Designed : 
+
+	JSE :
+
+		platform independent : ok
+
+		compiler and interpreter : not
+
+		JIT Compiler : no
+
+		memory : yes
+
+		gc : ok
+
+		class and array : no
+
+		class object stores any memory:no
+
+		data types : ans
+
+		float and double : no
+
+		encapsulation : not clear ans 
+
+		abstraction : no
+
+		can we write two methods in same class? no
+
+		java support multiple inheritance ? ok
+
+		interface : yes,
+
+		immutable class ? ok
+
+		exceptional handlers ? ok
+
+		user defined exception ? ono
+
+		how many threads are executes at a time ? ok
+
+		sleep()  vs wait(); no 
+
+		what is dead lock ? no
+
+		final vs finally : ok
+
+		what is Serialization ? ok
+
+		types of jdbc drives : no
+
+		skeleton of JDBC Program :ok
+
+		JDBC vs Hibernate : ok
+
+		servlet life cycle ; ok
+
+		methods HTTP Servlet API :
+
+		JSP : no
+
+		jsp implicit objects.no
+
+ 9) Sravani:		 
+
+		
+	--> B.TECH : 2025 , CSE
+	--> Java Fullstack
+     7.24
+
+	Java --- 2.5/5 , 
+
+	1)HTML,JS,CSS
+
+	2)Servletes,JDBC,Hibernate,Spring,Spring boot
+
+	3)MySQL
+
+	Java version :  JAVA 21.
+
+
+	-- validations --> Not Answered
+
+
+	-- Designed : 
+
+	JSE :
+
+		platform independent : ok
+
+		compiler and interpreter : not
+
+		JIT Compiler : ok
+
+		memory : no
+
+		gc : ok
+
+		class and array : no
+
+		class object stores any memory:no
+
+		data types : no
+
+		float and double : no
+
+		encapsulation : not clear ans 
+
+		abstraction : ok
+
+		can we write two methods in same class? no
+
+		java support multiple inheritance ? no
+
+		interface : yes,
+
+		immutable class ? ok
+
+		exceptional handlers ? no
+
+		user defined exception ? ono
+
+		how many threads are executes at a time ? ok
+
+		sleep()  vs wait(); no 
+
+		what is dead lock ? ok
+
+		final vs finally : ok
+
+		what is Serialization ? ok
+
+		types of jdbc drives : no
+
+		skeleton of JDBC Program :no
+
+		JDBC vs Hibernate : no
+
+		servlet life cycle ; no
+
+		methods HTTP Servlet API :
+
+		JSP : no
+
+		jsp implicit objects.no
+
+
+ 9) Sravani:		 
+
+		
+	--> B.TECH : 2010 , EEE
+	--> Java Fullstack
+ 
+    AWS
+
+	Services :
+
+		Storage classes S3.
+
+		IAM User and IAM Role
+
+		NAT Gateway
+
+	Git : 
+
+		git pull and git fetch
+
+		merge and rebase
+
+		branching stategy
+
+	what are the artifact we generate from java code.
+
+	POM.xml
+
+	super pom
+
+	Docker Lifecycle.
+
+	docker image ?
+
+	can i launch multiple containers from one  docker image ? yes
+
+	how do you persist the container data ?
+
+	docker file ?
+
+	inventory file ?
+
+	why kubernetes ?
+
+	kubernetes version.  
+		
+	
+
+
+
+		
+
+		
+
+		
+
+	
+	
